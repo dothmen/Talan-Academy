@@ -1,0 +1,16 @@
+Algorithme Le plus grand
+Vriables
+  N,Nbr_max:Entier
+
+
+Début 
+ Pour N <- 1 à 20
+   Ecrire('Entrer la base N')
+   lire(N)
+  Si N>Nbr_max alors
+     Nbr_max<-N
+  FinSi
+ FinPour
+ Ecrire('le valeur le plus grand Nbr_max :')
+Fin
+     
