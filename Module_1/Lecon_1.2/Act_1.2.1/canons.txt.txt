@@ -1,0 +1,14 @@
+Algorithme canons 
+Constantes
+  (NB_de_canons:entier)<-24
+  (NB_la_cadence:réel)<-12.5
+  (temps_maximal_de_survie_en_minute:entier)<-35
+  (temps_maximal_de_survie_en_seconde:entier)<-35*60
+  (NB_de_tirs:entier)<-24*2
+variables
+   Le_nombre_de_tirs : entier
+  
+Début
+    Le_nombre_de_tirs <- ( temps_maximal_de_survie_en_seconde/(NB_de_tirs*(NB_la_cadence*2)))
+
+Fin
