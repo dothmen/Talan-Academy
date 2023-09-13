@@ -1,0 +1,57 @@
+Algorithme Algorithmie_avancée
+ variables
+	collegues = tableau[1..N] de chaine de caractères, i,j:entier , secour: chaine_de_charactère;
+        
+ 
+
+ 
+
+	debut
+          Repéter
+            permute<-faux
+		pour i de 1 à N-1;
+			pour j de i+1 à N;
+
+ 
+
+ 
+
+				l1 = longueur(T[i])
+				l2 = longueur(T[j])
+				min = min (l1,l2)
+				
+				pour k de 1 à min ; 
+					si (T[i][k] > T[j][k] et permute == vrai)
+						secour <- tableau[j]
+						tableau[j] <- tableau[i]
+						tableau[j] <- secour
+						permute = vrai
+					finsi
+				fin pour
+                N<-n-1
+            jusqu'à ((N=2 ou (permute=faux))
+        fin
+
+ 
+
+ 
+
+			fin pour
+		fin pour
+
+ def dichotomie (T,N)
+   gauche<-0
+   droite= len(t)-1	
+  tanque gauche<=droite
+     milieu<-(gauche+droite)//2
+    si T(milieu)=N
+      sinon t(milieu)>V 
+         droite=milieu-1
+        sinon
+          gauche=milieu+1
+
+fin
+    
+        
+
+   
