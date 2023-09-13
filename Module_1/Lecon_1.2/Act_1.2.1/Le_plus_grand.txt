@@ -6,7 +6,7 @@ Début
 
    Ecrire('Entrer la base N')
    lire(N) 
-   Nbr_max<
+   Nbr_max<-N
    Pour N <- 2 à 20
     Si N>Nbr_max alors
      Nbr_max<-N
