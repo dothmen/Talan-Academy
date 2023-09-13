@@ -6,12 +6,12 @@ Début
 
    Ecrire('Entrer la base N')
    lire(N) 
-   N=Nbr_max
- Pour N <- 1 à 20
-  Si N>Nbr_max alors
+   Nbr_max<
+   Pour N <- 2 à 20
+    Si N>Nbr_max alors
      Nbr_max<-N
-  FinSi
- FinPour
- Ecrire('le valeur le plus grand Nbr_max :')
+    FinSi
+   FinPour
+   Ecrire('le plus grand Nbr :', Nbr_max)
 Fin
      
