@@ -1,0 +1,14 @@
+Algorithme Plaindrome
+Variables
+ Ch: chaine_de_cractére
+Début 
+ Ecrire('entrer la chaine de cractére Ch :') 
+ Lire (Ch)
+ i<-0 plain <-vrai
+ Repéter
+  i<- i+1
+   si ( Ch(i) <> ch(long(Ch)-i+1)) Alors
+    plaind <- faux
+   jusqu'à (i>= long(Ch) div2) ou plain=faux)
+   finsi
+fin
