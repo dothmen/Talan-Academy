@@ -31,17 +31,8 @@ public class Calcul {
 	    	System.out.println("Le quotient de " + a + " / " + b + " est : " + quotient);
        	
 	        }
-	       
-	        
-	         
 	        
 	}
-	
-	
-	
-	
-	
-	
 	
 	public static int getUserInput(String Userrequest) {
 		
@@ -81,19 +72,12 @@ public class Calcul {
         
 		
 	}
-        
-            
-
-   
+    
         public static float calculerquotient(int a , int b){
         	float quotient =  (float) a / b;
 			return quotient;
         		
         }
-        	
-        	
-        	
-        
-        
+         
 }
 	
