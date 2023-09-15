@@ -14,20 +14,26 @@ public class Calcul {
 		int b=  getUserInput("Entrez b");
 		
 		int somme = a + b; 
-         System.out.println("la somme est : " + somme);
+		System.out.println("la somme est : " + somme);
 
 		  
 		  
-		  int plusGrand = max(a, b);
-	       int factorielle = calculerFactorielle(plusGrand);
-	        System.out.println("La factorielle du nombre le plus grand (" + plusGrand + ") est : " + factorielle);
+		int plusGrand = max(a, b);
+	    int factorielle = calculerFactorielle(plusGrand);
+	    System.out.println("La factorielle du nombre le plus grand (" + plusGrand + ") est : " + factorielle);
+	      
+	    if (b == 0) {
+	    	System.out.println("La division par zéro n'est pas autorisée.");
+	        	
+	        }
+	    else {
+	    	float quotient = calculerquotient(a, b);
+	    	System.out.println("Le quotient de " + a + " / " + b + " est : " + quotient);
+       	
+	        }
+	       
 	        
-	        
-	        
-	         int quotient = calculerlaquotient(a/b);
-	         System.out.println("La division par zéro n'est pas autorisée.");
 	         
-	         System.out.println("Le quotient de " + a + " / " + b + " est : " + quotient);
 	        
 	}
 	
@@ -62,44 +68,32 @@ public class Calcul {
 	
 	}
 	public static int calculerFactorielle(int n) {
-        if (n == 0 || n == 1) {
+		if (n == 0 || n == 1) {
             return 1;
         }
         else {
-            int fact = 1;
+        	int fact = 1;
             for (int i = 2; i <= n; i++) {
                 fact *= i;
-          
-           
         }
-            return fact;
-         
-	 }
-       
-   
-        public static int calculerquotient(int a , int b){
-        	if (b==0) {
-        	} else {
-               
-                int quotient = a / b;
-        		
-        	}
-        	
-        	
-        	
-	 
-	
-        
-        
-        
-        
-     
-        
+            return fact ;
         }
+        
 		
-	
+	}
+        
+            
 
+   
+        public static float calculerquotient(int a , int b){
+        	float quotient =  (float) a / b;
+			return quotient;
+        		
+        }
+        	
+        	
+        	
         
         
-}}
+}
 	
