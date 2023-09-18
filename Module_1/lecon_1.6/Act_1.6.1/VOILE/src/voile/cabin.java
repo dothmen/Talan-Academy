@@ -3,24 +3,26 @@ package voile;
 public class cabin {
 	
 	public String shape;
-	public String size;
+	public int size;
 	public int id;
-	public cabin (String shape,String size,int id) {
+	public cabin (String shape,int size,int id) {
 		this.shape=shape;
 		this.size=size;
 		this.id=3;
 
 }
+	
+
 	public String getShape() {
 		return shape;
 	}
 	public void setShape(String shape) {
 		this.shape = shape;
 	}
-	public String getSize() {
+	public int getSize() {
 		return size;
 	}
-	public void setSize(String size) {
+	public void setSize(int size) {
 		this.size = size;
 	}
 	public int getId() {

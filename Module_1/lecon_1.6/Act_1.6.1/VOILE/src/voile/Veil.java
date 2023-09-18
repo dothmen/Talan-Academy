@@ -18,14 +18,7 @@ public class Veil {
 		this.shape= shape;
 		this.id=5;
 	}
-	public void torollup(){
-		rollup= true;
-		unroll= false;
-	}
-	public void tounroll(){
-			rollup= false;
-			unroll= true;
-	}
+	
 	public boolean isRollup() {
 		return rollup;
 	}

@@ -7,11 +7,12 @@ public class shell {
 	public int id;
 	public Veil v;
 	
-	
-	public shell (String color,String size,int id) {
-		this.material=material;
-		this.shape=shape;
-		this.id=4;
+	public shell(String material, String shape, int id, Veil v) {
+		super();
+		this.material = material;
+		this.shape = shape;
+		this.id = id;
+		this.v = v;
 	}
 
 
@@ -66,4 +67,4 @@ public class shell {
 
 	}
 
-}
+

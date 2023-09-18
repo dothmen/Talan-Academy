@@ -3,22 +3,26 @@ package voile;
 public class boat {
 	
 	public String color;
-	public String size;
+	public int size;
 	public int id;
-	public bridge b;
-	public cabin c;
-	public shell s;
+	public bridge bridge1;
+	public cabin cabin1;
+	public shell shell1;
 	
 	
-	public boat(String color, String size, int id, bridge b, cabin c, shell s) {
+	
+
+	public boat(String color, int size, int id, bridge bridge1, cabin cabin1, shell shell1) {
 		super();
 		this.color = color;
 		this.size = size;
-		this.id = 1;
-		this.b = b;
-		this.c = c;
-		this.s = s;
+		this.id = id;
+		this.bridge1 = bridge1;
+		this.cabin1 = cabin1;
+		this.shell1 = shell1;
 	}
+
+	
 
 	public String getColor() {
 		return color;
@@ -28,11 +32,11 @@ public class boat {
 		this.color = color;
 	}
 
-	public String getSize() {
+	public int getSize() {
 		return size;
 	}
 
-	public void setSize(String size) {
+	public void setSize(int size) {
 		this.size = size;
 	}
 

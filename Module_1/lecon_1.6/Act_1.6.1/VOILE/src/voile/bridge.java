@@ -3,9 +3,9 @@ package voile;
 public class bridge {
 	
 	public String color;
-	public String size;
+	public int size;
 	public int id;
-	public bridge (String color,String size,int id) {
+	public bridge (String color,int size,int id) {
 		this.color=color;
 		this.size=size;
 		this.id=2;
@@ -16,10 +16,10 @@ public class bridge {
 	public void setColor(String color) {
 		this.color = color;
 	}
-	public String getSize() {
+	public int getSize() {
 		return size;
 	}
-	public void setSize(String size) {
+	public void setSize(int size) {
 		this.size = size;
 	}
 	public int getId() {
