@@ -1,0 +1,28 @@
+package LIBR;
+
+public class Main {
+
+	public static void main(String[] args) {
+		    BOOK l1 = new BOOK(null, 0, 0, null);
+		    BOOK l2 = new BOOK(null, 0, 0, null);
+	        l1.afficher();
+	        l2.afficher();
+
+	        BD b1 = new BD(null, 0, 0, null, false, null);
+	        BD b2 = new BD(null, 0, 0, null, false, null);
+	        b1.afficher();
+	        b2.afficher();
+
+	        mangas m1 = new mangas(null, 0, 0, null, false, null);
+	        mangas m2 = new mangas(null, 0, 0, null, false, null);
+	        m1.afficher();
+	        m2.afficher();
+
+	        Roman r1 = new Roman(null, 0, 0, null, 0, null);
+	        
+	        r1.afficher();
+	    }
+
+	}
+
+
