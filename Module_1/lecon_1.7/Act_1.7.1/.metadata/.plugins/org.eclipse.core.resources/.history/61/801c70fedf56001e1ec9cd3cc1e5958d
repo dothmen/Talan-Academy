@@ -1,0 +1,28 @@
+package LIBR;
+
+public class Main {
+
+	public static void main(String[] args) {
+		    BOOK l1 = new BOOK("nouveau départ", 50, 300, "narative");
+		    BOOK l2 = new BOOK("trois mois", 60, 350, "narative");
+	        l1.afficher();
+	        l2.afficher();
+
+	        BD b1 = new BD("bonjour",9, 3, "aven", false, "droite");
+	        BD b2 = new BD("hello", 11, 5, "aven", false, "gauche");
+	        b1.afficher();
+	        b2.afficher();
+
+	        mangas m1 = new mangas("notre séjour au paris", 20, 50, "aven", false, "doite");
+	        mangas m2 = new mangas("les bienvenus", 30, 60, "aven", false, "gauche");
+	        m1.afficher();
+	        m2.afficher();
+
+	        Roman r1 = new Roman("twilight", 50, 300, "aven", 5, "l'amour en fiction");
+	        
+	        r1.afficher();
+	    }
+
+	}
+
+

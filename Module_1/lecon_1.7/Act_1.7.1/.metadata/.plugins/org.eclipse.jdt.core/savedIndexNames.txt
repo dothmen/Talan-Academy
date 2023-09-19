@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\dothmen\Documents\Talan-Academy\Module_1\lecon_1.7\Act_1.7.1\.metadata\.plugins\org.eclipse.jdt.core
+1721041370.index
+1865797976.index
+3274670116.index

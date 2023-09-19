@@ -1,0 +1,56 @@
+package LIBR;
+
+public class Roman {
+	private String title;
+	private int price;
+	private int num_page;
+	private String kind;
+	private int numb_chapter;
+	private String sammary;
+	public Roman(String title, int price, int num_page, String kind, int numb_chapter, String sammary) {
+		super();
+		this.title = title;
+		this.price = price;
+		this.num_page = num_page;
+		this.kind = kind;
+		this.numb_chapter = numb_chapter;
+		this.sammary = sammary;
+	}
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+	public int getNum_page() {
+		return num_page;
+	}
+	public void setNum_page(int num_page) {
+		this.num_page = num_page;
+	}
+	public String getKind() {
+		return kind;
+	}
+	public void setKind(String kind) {
+		this.kind = kind;
+	}
+	public int getNumb_chapter() {
+		return numb_chapter;
+	}
+	public void setNumb_chapter(int numb_chapter) {
+		this.numb_chapter = numb_chapter;
+	}
+	public String getSammary() {
+		return sammary;
+	}
+	public void setSammary(String sammary) {
+		this.sammary = sammary;
+	}
+	
+}
