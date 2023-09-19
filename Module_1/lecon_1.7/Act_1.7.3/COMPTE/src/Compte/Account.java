@@ -21,11 +21,11 @@ public class Account {
 		this.code = code;
 	}
 	
-	public void deposer(double montant) {
-	this.balance += montant;
+	public void depost(double amount) {
+	this.balance += amount;
 	}
-	public void retirer(double montant) {
-	this.balance-= montant;
+	public void withdrawal(double amount) {
+	this.balance-= amount;
 
 	}
 	public void toconsult(){
