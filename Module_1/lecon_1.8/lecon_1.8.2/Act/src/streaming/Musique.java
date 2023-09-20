@@ -1,5 +1,6 @@
 package streaming;
 
+
 import java.util.Objects;
 
 public class Musique {
@@ -14,6 +15,15 @@ public class Musique {
 		this.interpret = interpret;
 		this.kind = kind;
 	}
+	
+	public String getTitle() {
+		return title;
+	}
+
+	public void setTitle(String title) {
+		this.title = title;
+	}
+
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -28,9 +38,10 @@ public class Musique {
 	public String toString() {
 		return "titre:"+ title + "auteur:" + othor +  "interprete :"+ interpret+  "genre" +kind;
 	}
+}
 	
 	
-	}
+	
 
 	
 	

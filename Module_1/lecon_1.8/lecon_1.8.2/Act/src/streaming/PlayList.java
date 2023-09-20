@@ -1,19 +1,17 @@
 package streaming;
 
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-public class PlayList {
-	public String non;
-	public String kind;
-	List <Musique> PlayList;
-	public PlayList(String non, String kind, List<Musique> playList) {
-		super();
-		this.non = non;
-		this.kind = kind;
-		this.PlayList = playList;
-		
+
+public class PlayList extends Musique{
+		List <Musique> ListMusique;
+		public PlayList(String title, String othor, String interpret, String kind, List<Musique> listMusique) {
+		super(title, othor, interpret, kind);
+		this.ListMusique = new ArrayList<>();
+	
 	}
 	@Override
 	public boolean equals(Object obj) {
@@ -24,19 +22,26 @@ public class PlayList {
 		if (getClass() != obj.getClass())
 			return false;
 		PlayList other = (PlayList) obj;
-		return Objects.equals(non, other.non);
+		return Objects.equals(title, other.title);
 	}
+
 	public String toString() {
-		return "titre:"+ non+   "genre" +kind + "liste de musique" +PlayList;
+		return "titre:"+ title+   "genre" +kind + "liste de musique" +ListMusique;
 	}
-	public void ajoutermusique(Musique m) {
+	public void ajouterMusique() {
 		
-		this.PlayList.add(m);
-	}
-	
-      public void rechercher(Musique m) {
-		
-    	  this.non();
+          Musique nouvelleMusique = new Musique(title, kind, othor, interpret);
+ 
+        ListMusique.add(nouvelleMusique);
+       
+    }
+	 public Musique rechercherMusique(String titre) {
+	        for (Musique musique : ListMusique) {
+	            if (musique.getTitle().equals(titre)) {
+	                return musique;
+	            }
+	        }
+	        return null;
       }
       
 
