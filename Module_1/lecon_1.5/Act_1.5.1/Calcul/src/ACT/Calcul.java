@@ -15,23 +15,18 @@ public class Calcul {
 		
 		int somme = a + b; 
 		System.out.println("la somme est : " + somme);
-
-		  
-		  
 		int plusGrand = max(a, b);
 	    int factorielle = calculerFactorielle(plusGrand);
 	    System.out.println("La factorielle du nombre le plus grand (" + plusGrand + ") est : " + factorielle);
 	      
 	    if (b == 0) {
-	    	System.out.println("La division par zéro n'est pas autorisée.");
-	        	
+	    	System.out.println("La division par zéro n'est pas autorisée."); 	
 	        }
 	    else {
 	    	float quotient = calculerquotient(a, b);
 	    	System.out.println("Le quotient de " + a + " / " + b + " est : " + quotient);
        	
-	        }
-	        
+	        }       
 	}
 	
 	public static int getUserInput(String Userrequest) {
@@ -39,25 +34,19 @@ public class Calcul {
 	    System.out.println(Userrequest);
 		int res = sc.nextInt();
 		return res ;
-		
-
-	 }
+	}
 	
 	public static int max (int a, int b) {
-		int n;
-		 
+		int n; 
 		if (a>b ) {
-			n =a ;
-			
+			n =a ;	
 		}
 		else {
-			n =b;
-					
+			n =b;			
 		}
 		return n;
-	
-	
 	}
+	
 	public static int calculerFactorielle(int n) {
 		if (n == 0 || n == 1) {
             return 1;
@@ -69,8 +58,6 @@ public class Calcul {
         }
             return fact ;
         }
-        
-		
 	}
     
         public static float calculerquotient(int a , int b){

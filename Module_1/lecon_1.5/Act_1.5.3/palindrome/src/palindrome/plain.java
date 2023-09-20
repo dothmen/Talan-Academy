@@ -15,7 +15,7 @@ public class plain {
 		        String chaine = scanner.nextLine();
 
 		        
-		        chaine = chaine.replaceAll("\\s+", "").toLowerCase();
+		        chaine = chaine.replaceAll("\\s+", "").toLowerCase();  
 
 		       
 		        boolean estPalindrome = estPalindrome(chaine);
