@@ -7,7 +7,7 @@ import java.io.IOException;
 
 
 public class MaximumWithoutExceptions {
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args)   {
 		
 		try {	
 	          BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\dothmen\\Documents\\Talan-Academy\\Module_1\\lecon_1.9\\Act_1.9.2\\data.txt"));
