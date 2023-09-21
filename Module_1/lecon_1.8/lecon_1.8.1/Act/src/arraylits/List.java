@@ -31,32 +31,32 @@ public class List {
         } else {
             System.out.println("Index invalide pour la suppression.");
         }
-	     ArrayList <String> Finallistanimals1= new ArrayList<>(listanimals1);
+	     
        String nomASupprimer = "Cat";
-        while (Finallistanimals1.contains(nomASupprimer)) {
-        	Finallistanimals1.remove(nomASupprimer);
+        while (Finallistanimals.contains(nomASupprimer)) {
+        	Finallistanimals.remove(nomASupprimer);
         }
         System.out.println("Suppression de l'élément " + nomASupprimer + ".");
-        System.out.println("Nouveau tableau : " + Finallistanimals1);
-        System.out.println("Taille du tableau : " + Finallistanimals1.size());
+        System.out.println("Nouveau tableau : " + Finallistanimals);
+        System.out.println("Taille du tableau : " + Finallistanimals.size());
         String animalASupprimer = "Tiger";
-        if (Finallistanimals1.contains(animalASupprimer)) {
-        	Finallistanimals1.remove(animalASupprimer);
+        if (Finallistanimals.contains(animalASupprimer)) {
+        	Finallistanimals.remove(animalASupprimer);
             System.out.println("Suppression de l'animal (nom) : " + animalASupprimer);
-            System.out.println("Nouveau tableau : " + Finallistanimals1);
-            System.out.println("Taille du tableau : " + Finallistanimals1.size());
+            System.out.println("Nouveau tableau : " + Finallistanimals);
+            System.out.println("Taille du tableau : " + Finallistanimals.size());
         } else {
             System.out.println("Animal non trouvé pour la suppression.");
         }
         String nomARechercher = "Elephant";
-        if (Finallistanimals1.contains(nomARechercher)) {
-            int indexElementTrouve = Finallistanimals1.indexOf(nomARechercher);
+        if (Finallistanimals.contains(nomARechercher)) {
+            int indexElementTrouve = Finallistanimals.indexOf(nomARechercher);
             System.out.println("Élément " + nomARechercher + " trouvé à l'index : " + indexElementTrouve);
         } else {
             System.out.println("Élément " + nomARechercher + " non trouvé.");
         int indexARechercher = 2;
-        if (indexARechercher >= 0 && indexARechercher < Finallistanimals1.size()) {
-            String elementTrouve = Finallistanimals1.get(indexARechercher);
+        if (indexARechercher >= 0 && indexARechercher < Finallistanimals.size()) {
+            String elementTrouve = Finallistanimals.get(indexARechercher);
             System.out.println("Élément à l'index " + indexARechercher + " : " + elementTrouve);
         } else {
             System.out.println("Index invalide pour la recherche.");
