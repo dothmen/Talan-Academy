@@ -53,7 +53,7 @@ Act 2.2.7
 SELECT titre, resum
 FROM film
 WHERE titre LIKE '%42%' OR resum LIKE '%42%'
-ORDER BY LENGTH(titre), LENGTH(resum);
+ORDER BY duree_min;
 
 Act 2.2.8
 
@@ -63,7 +63,7 @@ SELECT
     DATE_FORMAT(date_naissance, '%Y-%m-%d') AS "date de naissance"
 FROM fiche_personne
 WHERE YEAR(date_naissance) = 1989
-ORDER BY nom;
+ORDER BY nom ASC;
 
 Act 2.2.9
 
@@ -102,7 +102,7 @@ FROM salle;
 
 Act 2.2.14
 
-SELECT etage_salle AS etage, COUNT(*) AS nbr_siege
+SELECT etage_salle AS etage, SUM(nbr_siege) AS nbr_sieges
 FROM salle
 GROUP BY etage_salle
 ORDER BY nbr_siege DESC;
@@ -128,3 +128,24 @@ SELECT
   FLOOR(AVG(prix)) AS moy_abo,
   SUM(duree_abo % 42) AS ft
 FROM abonnement;
+
+Act 2.2.18
+
+SELECT nom
+FROM distrib
+WHERE
+  (id_distrib IN (42, 62, 63, 64, 65, 66, 67, 68, 69, 71, 88, 89, 90))
+  AND
+  (LENGTH(nom) - LENGTH(REPLACE(UPPER(nom), 'Y', '')) = 2)
+LIMIT 5 OFFSET 2;
+
+Act 2.2.19
+
+SELECT ABS(DATEDIFF(MAX(date_debut_affiche), MIN(date_fin_affiche))) AS uptime
+FROM film;
+
+Act 2.2.21
+
+SELECT MD5(REPLACE(CONCAT(numero_telephone, '42'), '7', '9')) AS ft5
+FROM distrib
+WHERE id_distrib = 84;
