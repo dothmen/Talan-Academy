@@ -78,3 +78,53 @@ FROM film
 INNER JOIN genre  ON film.id_genre = genre.id_genre
 WHERE genre.nom = 'experimental'
 ORDER BY film.annee_prod DESC;
+
+Act 2.2.11
+
+SELECT UPPER(fiche_personne.nom) AS NOM, fiche_personne.prenom, abonnement.prix
+FROM fiche_personne
+INNER JOIN membre ON fiche_personne.id_perso = membre.id_fiche_perso
+INNER JOIN abonnement ON membre.id_abo = abonnement.id_abo
+WHERE abonnement.prix > 42
+ORDER BY NOM ASC, fiche_personne.prenom ASC;
+ 
+Act 2.2.12
+
+SELECT nom, prenom
+FROM fiche_personne
+WHERE nom LIKE '%-%' OR prenom LIKE '%-%'
+ORDER BY nom ASC, prenom ASC;
+
+Act 2.2.13
+
+SELECT ROUND(AVG(nbr_siege)) AS moyenne
+FROM salle;
+
+Act 2.2.14
+
+SELECT etage_salle AS etage, COUNT(*) AS nbr_siege
+FROM salle
+GROUP BY etage_salle
+ORDER BY nbr_siege DESC;
+
+Act 2.2.15
+
+SELECT CONCAT(REVERSE(SUBSTR(telephone, 2)), '') AS enohpelet
+FROM distrib
+WHERE telephone LIKE '05%';
+
+Act 2.2.16
+
+SELECT COUNT(*) AS films
+FROM membre
+WHERE
+    (date_dernier_film>= '2006-10-30' AND date_dernier_film <= '2007-07-27') OR
+    (MONTH(date_dernier_film) = 12 AND DAY(date_dernier_film) = 24);
+
+Act 2.2.17
+
+SELECT
+  COUNT(*)  AS nb_abo,
+  FLOOR(AVG(prix)) AS moy_abo,
+  SUM(duree_abo % 42) AS ft
+FROM abonnement;
