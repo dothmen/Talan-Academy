@@ -14,7 +14,7 @@ public class DemoJbdc {
         ResultSet res = null;
 
         try {
-           
+
             String url = "jdbc:mysql://localhost:3306/base_student.sql?characterEncoding=UTF-8";
             Class.forName("com.mysql.jdbc.Driver");
             con = DriverManager.getConnection(url, "root", "");
