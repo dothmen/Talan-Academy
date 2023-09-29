@@ -1,13 +1,45 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <header></header>
 
-<a href="https://mail.google.com/mail/u/0/#inbox">
-        Gmail
-</a>
- <a href="https://www.google.com/imghp?hl=fr&ogbl">
-        Images
- </a>
- <body>
-    <p>
-       <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt ="google"/>
-    </p>
- </body>
+
+        <!DOCTYPE html>
+        <html lang="fr">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Google</title>
+            <!-- Lien vers la feuille de style CSS -->
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <div class="container">
+                <!-- Boutons "Gmail" et "Connexion" en haut à droite -->
+                <div class="top-right-buttons">
+                    <button class="button gmail-button">Gmail</button>
+                    <button class="button Images-button">Images</button>
+                    <button class="button connexion-button">Connexion</button>
+                </div>
+                <!-- Logo Google -->
+                <div class="logo">
+                    <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google">
+                </div>
+                <!-- Zone de recherche avec champ de texte et boutons -->
+                <div class="search-box">
+                    <form action="https://www.google.com/search" method="GET">
+                        <input type="text" name="q" placeholder="Recherche Google">
+                        <div class="buttons">
+                            <!-- Bouton "Recherche Google" -->
+                            <input type="submit" value="Recherche Google" class="button">
+                            <!-- Bouton "J'ai de la chance" avec lien vers les doodles de Google -->
+                            <span class="feeling-lucky-button">
+                                <a href="https://www.google.com/doodles/" target="_blank" class="button">J'ai de la chance</a>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </body>
+        </html>
+        

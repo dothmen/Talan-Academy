@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 20px 0 100px; /* Ajusté la marge supérieure pour l'espace des boutons */
+        }
+        .logo img {
+            width: 200px;
+            height: auto;
+        }
+        .top-right-buttons {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+        .button {
+            padding: 10px 20px;
+            font-size: 18px;
+            border: none;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+        .Images-button{
+            background-color: #777; /* Couleur gris pour Gmail */
+            color: #fff; /* Couleur du texte */
+        }
+        .gmail-button {
+            background-color: #777; /* Couleur gris pour Gmail */
+            color: #fff; /* Couleur du texte */
+        }
+        .connexion-button {
+            background-color: #4285f4; /* Couleur bleue pour Connexion */
+            color: #fff; /* Couleur du texte */
+        }
+        .search-box {
+            margin-top: 20px;
+            text-align: center; /* Centre le contenu */
+        }
+        .search-box input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 18px;
+            margin-bottom: 10px; /* Espace sous le champ de recherche */
+        }
+        .buttons {
+            display: inline-block; /* Les boutons sont sur la même ligne */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="top-right-buttons">
+            <button class="button gmail-button">Gmail</button>
+            <button class="button Images-button">Images</button>
+            <button class="button connexion-button">Connexion</button>  
+        </div>
+        <div class="logo">
+            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google">
+        </div>
+        <div class="search-box">
+            <form action="https://www.google.com/search" method="GET">
+                <input type="text" name="q" placeholder="Recherche Google">
+                <div class="buttons">
+                    <input type="submit" value="Recherche Google" class="button">
+                    <span class="feeling-lucky-button">
+                        <a href="https://www.google.com/doodles/" target="_blank" class="button">J'ai de la chance</a>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+
