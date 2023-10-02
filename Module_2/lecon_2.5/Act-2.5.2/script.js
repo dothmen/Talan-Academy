@@ -1,4 +1,4 @@
-// Fonction pour afficher les attributs dans des alertes
+
 function afficherAttributs() {
     var lien = document.getElementById("ta");
 
@@ -15,6 +15,6 @@ function afficherAttributs() {
     alert("type : " + type);
 }
 
-// Ajouter un gestionnaire d'événements au bouton
+
 var bouton = document.getElementById("boutonAttributs");
 bouton.addEventListener("click", afficherAttributs);
