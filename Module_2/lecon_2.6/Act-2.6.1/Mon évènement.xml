@@ -1,0 +1,87 @@
+<évènements>
+   <evenement1>
+    <titre> IT day</titre>
+    <theme>informatique</theme>
+    <date>  30/09/2023 </date>
+    <lieu>
+        <non>laico hotel</non>
+        <capacité>500 participants</capacité>
+    </lieu> 
+    <budget> 10 000 DNT</budget>
+    <Activité>
+        <titre>tirage</titre>
+        <durée> 30 minute</durée>
+       </Activité>
+     <paticipants>
+        <invités> 
+            <invité1>
+                <nom>dorsaf</nom>
+                <id>i1</id>
+                <nometablissement> Talan academy</nometablissement>
+            </invité1>
+            <invité2>
+                <nom>oussama</nom>
+                <id>i2</id>
+                <nometablissement> globel net</nometablissement>
+                </invité2>
+             </invités>
+        <intervenant>
+            <intervenant1>
+                <nom>omar</nom>
+                <id>id3</id>
+                <langue>français</langue>
+            </intervenant1>
+            <intervenant2>
+                <nom>sana</nom>
+                <id>id4</id>
+                <langue>français</langue>
+            </intervenant2>
+        </intervenant>
+
+     </paticipants>
+    </evenement1>
+    <evenement2>
+        <titre> October rose</titre>
+        <theme>santé</theme>
+        <date> 15/10/2023 </date>
+        <lieu>
+            <non>laico hotel</non>
+            <capacité>500 participants</capacité>
+        </lieu> 
+        <budget> 10 000 DNT</budget>
+        <Activité>
+            <titre>tirage</titre>
+            <durée> 30 minute</durée>
+           </Activité>
+         <paticipants>
+            <invités> 
+                <invité1>
+                    <nom>fareh</nom>
+                    <id>i1</id>
+                    <nometablissement> Talan academy</nometablissement>
+                </invité1>
+                <invité2>
+                    <nom>salim</nom>
+                    <id>i2</id>
+                    <nometablissement> globel net</nometablissement>
+                    </invité2>
+                 </invités>
+            <intervenant>
+                <intervenant1>
+                    <nom>rym</nom>
+                    <id>id5</id>
+                    <langue>anglais</langue>
+                </intervenant1>
+                <intervenant2>
+                    <nom>arbia</nom>
+                    <id>id6</id>
+                    <langue>français</langue>
+                </intervenant2>
+            </intervenant>
+    
+         </paticipants>
+
+    </evenement2>
+
+
+</évènements>

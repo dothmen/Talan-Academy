@@ -13,7 +13,7 @@ public class Base_student {
         java.sql.Statement st = null;
         ResultSet res = null;
 
-        try {
+        try {    
            
             String url = "jdbc:mysql://localhost:3306/base_student.sql?characterEncoding=UTF-8";
            
