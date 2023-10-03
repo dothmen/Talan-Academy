@@ -1,0 +1,7 @@
+1./booker/award[5]/title
+2./booker/award[6]/author
+3./booker/award[year=2000]/title
+4./booker/award[title="Possession"]/author
+5./booker/award[author="J M Coetzee"]/title
+6./booker/award[year=1995]/author
+7.count(/booker/award)
