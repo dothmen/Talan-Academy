@@ -1,0 +1,96 @@
+{
+    "évènements": [
+        {
+            "evenement": {
+                "titre": "IT day",
+                "theme": "informatique",
+                "date": "30/09/2023",
+                "lieu": {
+                    "nom": "laico hotel",
+                    "capacité": "500 participants"
+                },
+                "budget": "10 000 DNT",
+                "Activité": {
+                    "titre": "tirage",
+                    "durée": "30 minute"
+                },
+                "participants": {
+                    "invités": {
+                        "invité": [
+                            {
+                                "nom": "dorsaf",
+                                "id": "i1",
+                                "nometablissement": "Talan academy"
+                            },
+                            {
+                                "nom": "oussama",
+                                "id": "i2",
+                                "nometablissement": "globel net"
+                            }
+                        ]
+                    },
+                    "intervenant": {
+                        "intervenant": [
+                            {
+                                "nom": "omar",
+                                "id": "id3",
+                                "langue": "français"
+                            },
+                            {
+                                "nom": "sana",
+                                "id": "id4",
+                                "langue": "français"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "evenement": {
+                "titre": "October rose",
+                "theme": "santé",
+                "date": "15/10/2023",
+                "lieu": {
+                    "nom": "laico hotel",
+                    "capacité": "500 participants"
+                },
+                "budget": "10 000 DNT",
+                "Activité": {
+                    "titre": "tirage",
+                    "durée": "30 minute"
+                },
+                "participants": {
+                    "invités": {
+                        "invité": [
+                            {
+                                "nom": "fareh",
+                                "id": "i1",
+                                "nometablissement": "Talan academy"
+                            },
+                            {
+                                "nom": "salim",
+                                "id": "i2",
+                                "nometablissement": "globel net"
+                            }
+                        ]
+                    },
+                    "intervenant": {
+                        "intervenant": [
+                            {
+                                "nom": "rym",
+                                "id": "id5",
+                                "langue": "anglais"
+                            },
+                            {
+                                "nom": "arbia",
+                                "id": "id6",
+                                "langue": "français"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

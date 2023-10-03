@@ -1,5 +1,5 @@
 <évènements>
-   <evenement1>
+   <evenement>
     <titre> IT day</titre>
     <theme>informatique</theme>
     <date>  30/09/2023 </date>
@@ -14,33 +14,33 @@
        </Activité>
      <paticipants>
         <invités> 
-            <invité1>
+            <invité>
                 <nom>dorsaf</nom>
                 <id>i1</id>
                 <nometablissement> Talan academy</nometablissement>
-            </invité1>
-            <invité2>
+            </invité>
+            <invité>
                 <nom>oussama</nom>
                 <id>i2</id>
                 <nometablissement> globel net</nometablissement>
-                </invité2>
+                </invité>
              </invités>
         <intervenant>
-            <intervenant1>
+            <intervenant>
                 <nom>omar</nom>
                 <id>id3</id>
                 <langue>français</langue>
-            </intervenant1>
-            <intervenant2>
+            </intervenant>
+            <intervenant>
                 <nom>sana</nom>
                 <id>id4</id>
                 <langue>français</langue>
-            </intervenant2>
+            </intervenant>
         </intervenant>
 
      </paticipants>
-    </evenement1>
-    <evenement2>
+    </evenement>
+    <evenement>
         <titre> October rose</titre>
         <theme>santé</theme>
         <date> 15/10/2023 </date>
@@ -55,33 +55,33 @@
            </Activité>
          <paticipants>
             <invités> 
-                <invité1>
+                <invité>
                     <nom>fareh</nom>
                     <id>i1</id>
                     <nometablissement> Talan academy</nometablissement>
-                </invité1>
-                <invité2>
+                </invité>
+                <invité>
                     <nom>salim</nom>
                     <id>i2</id>
                     <nometablissement> globel net</nometablissement>
-                    </invité2>
+                    </invité>
                  </invités>
             <intervenant>
-                <intervenant1>
+                <intervenant>
                     <nom>rym</nom>
                     <id>id5</id>
                     <langue>anglais</langue>
-                </intervenant1>
-                <intervenant2>
+                </intervenant>
+                <intervenant>
                     <nom>arbia</nom>
                     <id>id6</id>
                     <langue>français</langue>
-                </intervenant2>
+                </intervenant>
             </intervenant>
     
          </paticipants>
 
-    </evenement2>
+    </evenement>
 
 
 </évènements>
