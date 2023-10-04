@@ -1,7 +1,7 @@
 
 function loadXML() {
     var xhttp = new XMLHttpRequest();
-    var url = "http://localhost/wamp/Mon évènement.xml"; 
+    var url = "http://localhost/wamp/evenement.xml"; 
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             parseXML(this);

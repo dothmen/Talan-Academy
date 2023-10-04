@@ -1,9 +1,0 @@
-package LIBR;
-
-public class BD {
-
-	public BD() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
