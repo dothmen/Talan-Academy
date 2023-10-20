@@ -1,0 +1,28 @@
+id="username"
+
+
+class="input r4 wide mb16 mt8 username"
+
+
+
+name="username"
+
+
+XPATH "EMAIL"
+//*[@id="username"]
+
+
+id="password"
+
+class="input r4 wide mb16 mt8 password"
+
+name="pw"
+
+XPATH "MOT DE PASSE"
+//*[@id="password"]
+
+//*[@id="Login"]
+
+//a[@title='Tableaux de bord']
+//a[@class='profile-link-label']
+//a[@class='profile-link-label logout uiOutputURL']
