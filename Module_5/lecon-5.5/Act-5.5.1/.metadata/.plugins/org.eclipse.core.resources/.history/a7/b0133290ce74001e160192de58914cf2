@@ -1,0 +1,71 @@
+package steps;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class loginSteps {
+	WebDriver driver;
+	 loginpage login;
+
+
+	@Given("user in login  page")
+	public void user_in_login_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enters dorsaf.othmen@talan.com")
+	public void user_enters_dorsaf_othmen_talan_com() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("click on next button")
+	public void click_on_next_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enters Dodo27948.!")
+	public void user_enters_Dodo27948() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("clicks on validate button")
+	public void clicks_on_validate_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("user is navigated to the home page")
+	public void user_is_navigated_to_the_home_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enters invalid dorsaf.othmentalan.com")
+	public void user_enters_invalid_dorsaf_othmentalan_com() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("user recived error message")
+	public void user_recived_error_message() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enters  dorsaf.othmen@talan.com")
+	public void user_enters_dorsaf_othmen_talan_com() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enters invalid dodo27948.!")
+	public void user_enters_invalid_dodo27948() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+}

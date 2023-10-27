@@ -1,0 +1,14 @@
+package steps;
+import org.junit.runner.RunWith;
+
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+@RunWith(Cucumber.class)
+
+@CucumberOptions(features="src/test/resources/divers/chromedriver.exe" , glue={"steps"} ,strict=true , tags="tag1" )
+
+public class Runner {
+
+}

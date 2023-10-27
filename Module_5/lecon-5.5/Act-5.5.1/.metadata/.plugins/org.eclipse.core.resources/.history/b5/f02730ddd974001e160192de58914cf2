@@ -1,0 +1,41 @@
+@tag
+Feature: to test login fuctionnality
+
+  @tag1
+  Scenario Outline: login is successful with valid credentials
+    Given user in login  page
+    When user enters email <Email>
+    And click on next button
+    And user enters password <Password>
+    And clicks on validate button
+    Then user is navigated to the home page
+
+    Examples: 
+      | Email                   | Password    |
+      | dorsaf.othmen@talan.com | Dodo27948.! |
+
+  @tag2
+  Scenario Outline: login is successful with invalid credentials
+     Given user in login  page
+    When user enters <Email>
+    And click on next button
+    And user enters password <Password>
+    And clicks on validate button
+    Then user recived invalid Email
+
+    Examples: 
+      | Email                  | Password    |
+      | dorsaf.othmentalan.com | Dodo27948.! |
+
+  @tag3
+  Scenario Outline: login is successful with invalid credentials
+    Given user in login  page
+    When user enters <Email>
+    And click on next button
+    And user enters password <Password>
+    And clicks on validate button
+    Then user recived invalid Password
+
+    Examples: 
+      | Email                   | Password    |
+      | dorsaf.othmen@talan.com | dodo27948.! |
