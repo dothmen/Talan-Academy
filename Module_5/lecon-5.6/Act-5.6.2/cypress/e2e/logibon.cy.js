@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('login', () => {
   it('passes', () => {
     cy.visit('http://demo.guru99.com/test/newtours/')
     cy.get('[width="67"] > a').click()

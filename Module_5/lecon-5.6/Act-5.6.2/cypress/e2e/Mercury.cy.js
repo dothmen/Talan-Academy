@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('inscription', () => {
   it('passes', () => {
     cy.visit('http://demo.guru99.com/test/newtours/')
     
