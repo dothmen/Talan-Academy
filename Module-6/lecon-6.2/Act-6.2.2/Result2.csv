@@ -1,0 +1,820 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1698851804595,833,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,469,0,396
+1698851804595,473,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,469,0,396
+1698851805071,357,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851804695,747,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,372,0,296
+1698851804695,373,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,372,0,296
+1698851805071,371,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,98,0,0
+1698851804538,907,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,528,0,454
+1698851804538,529,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,528,0,454
+1698851805071,374,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,99,0,0
+1698851804793,660,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,281,0,206
+1698851804793,281,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,281,0,206
+1698851805075,378,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,81,0,0
+1698851804894,632,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,281,0,219
+1698851804894,282,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,281,0,219
+1698851805176,350,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851804992,610,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,236,0,177
+1698851804992,236,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,236,0,177
+1698851805228,374,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851805192,535,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,238,0,177
+1698851805192,238,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,238,0,177
+1698851805430,297,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851805092,745,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,293,0,220
+1698851805092,293,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,293,0,220
+1698851805386,451,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,81,0,0
+1698851805292,712,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,264,0,196
+1698851805292,265,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,264,0,196
+1698851805557,447,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851805392,642,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,235,0,172
+1698851805392,235,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,235,0,172
+1698851805627,407,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851809412,360,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851809412,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851809472,300,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851804694,1107,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140162,2400,10,10,null,432,3972,296
+1698851809423,355,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,59,0,0
+1698851809423,59,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,59,0,0
+1698851809482,296,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851804792,1015,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140162,2400,10,10,null,340,3972,206
+1698851809416,384,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851809416,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851809478,322,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,87,0,0
+1698851804497,1291,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,589,4011,454
+1698851809497,352,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,59,0,0
+1698851809497,59,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,59,0,0
+1698851809556,293,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851804894,984,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140148,2400,10,10,null,340,3972,219
+1698851809404,473,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851809404,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851809465,412,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,82,0,0
+1698851804594,1306,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140162,2400,10,10,null,530,3978,396
+1698851809574,336,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851809574,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851809630,280,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851804991,946,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140148,2400,10,10,null,291,3973,177
+1698851809699,351,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851809699,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851809758,292,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851805191,886,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,296,3974,177
+1698851809808,433,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851809808,72,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,72,0,0
+1698851809881,360,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,88,0,0
+1698851805091,1178,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,365,3972,220
+1698851810006,471,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,54,0,0
+1698851810006,54,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,54,0,0
+1698851810060,417,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851805391,1113,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140148,2400,10,10,null,289,3974,172
+1698851809777,702,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,230,0,172
+1698851809777,230,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,230,0,172
+1698851810007,472,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851809976,520,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851809976,64,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851810040,456,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851805291,1232,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,327,3974,196
+1698851809780,723,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,233,0,168
+1698851809780,233,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,233,0,168
+1698851810013,490,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851809801,741,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,229,0,172
+1698851809801,229,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,229,0,172
+1698851810031,511,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851809851,730,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,241,0,181
+1698851809851,241,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,241,0,181
+1698851810093,488,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851809879,893,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,277,0,204
+1698851809879,277,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,277,0,204
+1698851810156,616,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851809912,878,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,291,0,215
+1698851809912,291,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,291,0,215
+1698851810204,586,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,83,0,0
+1698851810052,776,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,339,0,189
+1698851810052,339,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,339,0,189
+1698851810392,436,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,108,0,0
+1698851810242,676,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,372,0,307
+1698851810242,372,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,372,0,307
+1698851810614,304,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851810479,581,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,239,0,178
+1698851810479,239,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,239,0,178
+1698851810719,341,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851810497,623,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,232,0,172
+1698851810497,232,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,232,0,172
+1698851810730,390,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851814450,410,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,62,0,0
+1698851814450,62,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,62,0,0
+1698851814513,347,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851809774,1112,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140155,2400,10,10,null,292,3974,172
+1698851814474,391,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851814474,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851814535,330,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851809779,1114,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140155,2400,10,10,null,294,3973,168
+1698851814553,352,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851814553,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851814614,291,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851809850,1082,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140148,2400,10,10,null,301,3973,181
+1698851814513,591,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851814513,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851814572,532,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,159,0,0
+1698851809800,1332,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140155,2400,10,10,null,287,3973,172
+1698851814799,372,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851814799,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851814860,311,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851810051,1148,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,399,3973,189
+1698851814760,438,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851814760,75,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,75,0,0
+1698851814836,362,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,82,0,0
+1698851809911,1316,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140148,2400,10,10,null,366,3971,215
+1698851814889,356,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851814889,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851814947,298,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851810241,1032,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,430,3972,307
+1698851814743,509,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851814743,68,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,68,0,0
+1698851814811,441,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851809878,1402,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140148,2400,10,10,null,345,3972,204
+1698851815032,359,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,62,0,0
+1698851815032,62,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,62,0,0
+1698851815095,296,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851810478,940,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140162,2400,10,10,null,301,3973,178
+1698851815092,348,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,57,0,0
+1698851815092,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,57,0,0
+1698851815150,290,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851810497,971,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140148,2400,10,10,null,289,3973,172
+1698851814862,596,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,242,0,178
+1698851814862,242,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,242,0,178
+1698851815105,353,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851814867,626,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,237,0,177
+1698851814867,237,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,237,0,177
+1698851815105,388,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851814906,607,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,248,0,185
+1698851814906,248,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,248,0,185
+1698851815154,359,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851815106,593,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,212,0,154
+1698851815106,212,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,212,0,154
+1698851815319,380,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851815174,585,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,240,0,179
+1698851815174,240,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,240,0,179
+1698851815415,344,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851815199,610,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,230,0,170
+1698851815199,230,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,230,0,170
+1698851815430,379,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851815246,585,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,242,0,180
+1698851815246,242,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,242,0,180
+1698851815489,342,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851815253,615,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,275,0,203
+1698851815253,275,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,275,0,203
+1698851815528,340,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,83,0,0
+1698851815392,567,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,237,0,175
+1698851815392,237,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,237,0,175
+1698851815630,329,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851815442,579,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,239,0,172
+1698851815442,239,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,239,0,172
+1698851815682,339,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851819430,340,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,57,0,0
+1698851819430,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,57,0,0
+1698851819487,283,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851814860,936,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140155,2400,10,10,null,299,3975,178
+1698851819465,330,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851819465,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851819521,274,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851814866,956,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,292,3974,177
+1698851819484,388,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851819484,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851819546,326,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851814905,995,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140148,2400,10,10,null,309,3973,185
+1698851819670,403,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,54,0,0
+1698851819670,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,54,0,0
+1698851819725,348,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851815105,996,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,266,3977,154
+1698851819730,389,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,62,0,0
+1698851819730,62,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,62,0,0
+1698851819793,326,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851815172,974,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140162,2400,10,10,null,302,3973,179
+1698851819781,364,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,59,0,0
+1698851819781,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,59,0,0
+1698851819841,304,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851815198,974,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140155,2400,10,10,null,289,3974,170
+1698851819803,372,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851819803,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851819861,314,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851815245,957,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,300,3974,180
+1698851819840,431,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851819840,69,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,69,0,0
+1698851819910,361,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851815252,1046,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140155,2400,10,10,null,344,3974,203
+1698851819797,522,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,256,0,162
+1698851819797,256,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,256,0,162
+1698851820054,265,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851819930,395,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,52,0,0
+1698851819930,52,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,52,0,0
+1698851819983,342,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,97,0,0
+1698851815391,962,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140155,2400,10,10,null,289,3973,175
+1698851819992,365,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,90,0,0
+1698851819992,90,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,90,0,0
+1698851820082,275,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851815441,944,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,329,3973,172
+1698851819772,679,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,295,0,191
+1698851819772,295,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,295,0,191
+1698851820067,384,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851819873,943,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,285,0,219
+1698851819873,285,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,285,0,219
+1698851820159,657,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851820147,751,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,262,0,192
+1698851820147,262,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,262,0,192
+1698851820410,488,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851820176,740,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,301,0,221
+1698851820176,301,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,301,0,221
+1698851820478,438,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,90,0,0
+1698851820327,600,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,252,0,187
+1698851820327,252,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,252,0,187
+1698851820580,347,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851820080,872,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,278,0,203
+1698851820080,278,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,278,0,203
+1698851820359,593,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851820360,711,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,291,0,217
+1698851820360,291,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,291,0,217
+1698851820652,419,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851820274,897,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,246,0,183
+1698851820274,246,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,246,0,183
+1698851820521,650,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,238,0,0
+1698851820121,1102,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,273,0,194
+1698851820121,273,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,273,0,194
+1698851820394,829,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,85,0,0
+1698851824290,330,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851824290,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851824351,269,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851819796,852,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140155,2400,10,10,null,316,3972,162
+1698851824422,366,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851824422,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851824486,302,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851819771,1045,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140148,2400,10,10,null,358,3972,191
+1698851824622,578,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,240,0,178
+1698851824622,240,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,240,0,178
+1698851824862,338,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851824898,357,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,56,0,0
+1698851824898,56,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,56,0,0
+1698851824955,300,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851820326,957,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140162,2400,10,10,null,308,3972,187
+1698851824869,432,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851824869,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851824930,371,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851820146,1183,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140148,2400,10,10,null,322,3972,192
+1698851824887,429,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851824887,69,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,69,0,0
+1698851824956,360,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,84,0,0
+1698851820176,1169,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,370,3972,221
+1698851824787,531,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,57,0,0
+1698851824787,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,57,0,0
+1698851824844,474,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,114,0,0
+1698851819873,1474,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140162,2400,10,10,null,342,3971,219
+1698851824790,636,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,257,0,194
+1698851824790,257,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,257,0,194
+1698851825047,379,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851824923,547,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851824923,64,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,64,0,0
+1698851824987,483,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851820079,1419,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,342,3972,203
+1698851825043,442,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851825043,65,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,65,0,0
+1698851825108,377,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,86,0,0
+1698851820358,1153,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140148,2400,10,10,null,356,3974,217
+1698851825141,425,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,54,0,0
+1698851825141,54,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,54,0,0
+1698851825196,370,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851820272,1322,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140148,2400,10,10,null,300,3972,183
+1698851825319,541,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,251,0,190
+1698851825319,251,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,251,0,190
+1698851825570,290,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851825302,598,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,271,0,203
+1698851825302,271,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,271,0,203
+1698851825573,327,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851825256,669,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,269,0,200
+1698851825256,269,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,269,0,200
+1698851825526,399,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,88,0,0
+1698851825318,682,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,280,0,210
+1698851825318,280,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,280,0,210
+1698851825598,402,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851825194,862,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851825194,66,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,66,0,0
+1698851825260,796,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,181,0,0
+1698851820119,1964,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,339,3974,194
+1698851825486,613,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,253,0,186
+1698851825486,254,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,253,0,186
+1698851825740,359,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851825567,535,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,215,0,159
+1698851825567,215,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,215,0,159
+1698851825782,320,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851825471,649,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,272,0,205
+1698851825471,272,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,272,0,205
+1698851825744,376,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851826059,713,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,245,0,179
+1698851826059,245,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,245,0,179
+1698851826304,468,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851829170,351,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,62,0,0
+1698851829170,62,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,62,0,0
+1698851829233,288,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851824621,929,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,302,3972,178
+1698851829396,374,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851829396,66,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,66,0,0
+1698851829462,308,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851824789,1010,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140148,2400,10,10,null,323,3971,194
+1698851829524,593,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,226,0,166
+1698851829524,226,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,226,0,166
+1698851829750,367,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851829831,346,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,57,0,0
+1698851829831,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,57,0,0
+1698851829888,289,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851825318,887,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140155,2400,10,10,null,308,3973,190
+1698851829871,410,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851829871,77,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,76,0,0
+1698851829948,333,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,77,0,0
+1698851825301,1009,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140148,2400,10,10,null,347,3972,203
+1698851829896,394,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851829896,66,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,66,0,0
+1698851829963,327,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851825255,1063,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140148,2400,10,10,null,335,3973,200
+1698851829772,549,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,229,0,163
+1698851829772,229,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,229,0,163
+1698851830001,320,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851829972,409,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851829972,71,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,70,0,0
+1698851830043,338,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,82,0,0
+1698851825317,1091,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,350,3973,210
+1698851830074,322,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,52,0,0
+1698851830074,52,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,52,0,0
+1698851830127,269,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851825567,857,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140155,2400,10,10,null,267,3972,159
+1698851830070,373,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851830070,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851830131,312,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851825485,986,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,314,3973,186
+1698851830091,375,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851830091,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851830154,312,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851825470,1024,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,335,3972,205
+1698851830179,674,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,276,0,209
+1698851830179,276,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,276,0,209
+1698851830456,397,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851830283,570,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,241,0,178
+1698851830283,241,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,241,0,178
+1698851830524,329,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851830398,546,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,232,0,164
+1698851830398,232,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,232,0,164
+1698851830631,313,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851830292,677,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,254,0,189
+1698851830292,254,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,254,0,189
+1698851830547,422,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851830446,624,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,243,0,173
+1698851830446,243,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,243,0,173
+1698851830690,380,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,84,0,0
+1698851830382,750,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,278,0,204
+1698851830382,278,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,278,0,204
+1698851830661,471,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851830468,718,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,294,0,206
+1698851830468,294,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,294,0,206
+1698851830762,424,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,98,0,0
+1698851830743,570,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851830743,79,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,79,0,0
+1698851830823,490,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851826057,1283,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140155,2400,10,10,null,324,3974,179
+1698851831315,569,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,232,0,171
+1698851831315,232,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,232,0,171
+1698851831548,336,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851834087,332,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,59,0,0
+1698851834087,59,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,59,0,0
+1698851834146,273,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851829522,925,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,285,3973,166
+1698851834292,314,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,53,0,0
+1698851834292,53,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,53,0,0
+1698851834345,261,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851829771,863,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140148,2400,10,10,null,282,3972,163
+1698851834422,594,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,228,0,168
+1698851834422,228,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,228,0,168
+1698851834650,366,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851834824,329,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,53,0,0
+1698851834824,53,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,53,0,0
+1698851834878,275,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851830282,899,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140155,2400,10,10,null,294,3972,178
+1698851834824,383,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851834824,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851834887,320,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,77,0,0
+1698851830178,1057,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140155,2400,10,10,null,339,3972,209
+1698851834914,321,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,54,0,0
+1698851834914,54,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,54,0,0
+1698851834969,266,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851830396,867,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140148,2400,10,10,null,286,3973,164
+1698851834608,630,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,258,0,189
+1698851834608,258,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,258,0,189
+1698851834867,371,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851834940,379,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851834940,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851835003,316,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851830291,1056,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140155,2400,10,10,null,317,3973,189
+1698851835041,344,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851835041,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851835101,284,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851830444,968,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,303,3974,173
+1698851835103,468,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851835103,71,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,71,0,0
+1698851835174,397,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,81,0,0
+1698851830381,1218,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140155,2400,10,10,null,349,3972,204
+1698851835158,423,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851835158,69,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,69,0,0
+1698851835227,354,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851830467,1141,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,363,3973,206
+1698851835154,525,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,232,0,171
+1698851835154,232,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,232,0,171
+1698851835387,292,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851835208,553,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,250,0,185
+1698851835208,250,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,250,0,185
+1698851835458,303,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851835237,529,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,239,0,176
+1698851835237,239,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,239,0,176
+1698851835476,290,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851835321,582,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,218,0,159
+1698851835321,218,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,218,0,159
+1698851835540,363,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851835386,649,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,256,0,190
+1698851835386,256,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,256,0,190
+1698851835642,393,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851835572,555,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,209,0,153
+1698851835572,209,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,209,0,153
+1698851835782,345,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851835582,591,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,221,0,161
+1698851835582,221,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,221,0,161
+1698851835804,369,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851835854,347,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851835854,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851835914,287,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851831314,916,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,292,3971,171
+1698851836203,552,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,242,0,176
+1698851836203,242,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,242,0,176
+1698851836446,309,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851838986,420,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,57,0,0
+1698851838986,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,57,0,0
+1698851839044,362,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851834420,1014,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140155,2400,10,10,null,285,3973,168
+1698851839209,408,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851839209,70,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,70,0,0
+1698851839280,337,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851834607,1038,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140148,2400,10,10,null,328,3972,189
+1698851839649,462,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851839649,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851839710,401,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851835153,987,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140155,2400,10,10,null,292,3971,171
+1698851839408,761,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,259,0,194
+1698851839408,259,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,259,0,194
+1698851839667,502,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,81,0,0
+1698851839731,505,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851839731,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851839794,442,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851835207,1058,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140155,2400,10,10,null,313,3971,185
+1698851839737,509,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851839737,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851839798,448,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,86,0,0
+1698851835236,1038,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140148,2400,10,10,null,300,3973,176
+1698851839618,666,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,230,0,169
+1698851839618,230,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,230,0,169
+1698851839848,436,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851840097,325,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851840097,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851840155,267,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851835571,880,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,267,3972,153
+1698851840005,432,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,104,0,0
+1698851840005,104,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,104,0,0
+1698851840110,327,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851835386,1081,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,360,3970,190
+1698851839874,582,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851839874,69,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,69,0,0
+1698851839943,513,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,265,0,0
+1698851835320,1164,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140148,2400,10,10,null,287,3972,159
+1698851840143,347,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851840143,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851840203,287,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851835582,938,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,281,3970,161
+1698851840238,654,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,236,0,173
+1698851840238,236,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,236,0,173
+1698851840475,417,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,96,0,0
+1698851840113,808,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,294,0,220
+1698851840113,294,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,294,0,220
+1698851840407,514,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,86,0,0
+1698851840248,691,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,252,0,187
+1698851840248,252,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,252,0,187
+1698851840501,438,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,86,0,0
+1698851840439,686,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,273,0,202
+1698851840424,701,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,274,0,195
+1698851840439,273,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,273,0,202
+1698851840424,274,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,274,0,195
+1698851840712,413,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851840698,427,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,93,0,0
+1698851840458,678,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,270,0,205
+1698851840458,270,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,270,0,205
+1698851840729,407,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851840725,468,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851840725,76,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,76,0,0
+1698851840801,392,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,95,0,0
+1698851836202,1020,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,318,3971,176
+1698851840491,742,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,300,0,213
+1698851840491,300,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,300,0,213
+1698851840792,441,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,98,0,0
+1698851841195,577,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,239,0,178
+1698851841195,239,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,239,0,178
+1698851841434,338,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851844139,375,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851844139,64,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,64,0,0
+1698851844203,311,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851839407,1136,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,323,3971,194
+1698851844254,332,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,57,0,0
+1698851844254,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,57,0,0
+1698851844312,274,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851839618,998,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140148,2400,10,10,null,287,3970,169
+1698851844515,654,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,265,0,196
+1698851844515,266,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,265,0,196
+1698851844781,388,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851844862,357,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851844862,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851844922,297,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851840236,1011,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140148,2400,10,10,null,296,3972,173
+1698851844587,668,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,270,0,198
+1698851844587,270,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,270,0,198
+1698851844858,397,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,85,0,0
+1698851844892,428,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851844892,70,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,70,0,0
+1698851844962,358,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,83,0,0
+1698851840112,1236,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140155,2400,10,10,null,364,3973,220
+1698851844909,417,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851844909,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851844970,356,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851840247,1108,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140155,2400,10,10,null,312,3971,187
+1698851845095,345,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,59,0,0
+1698851845095,59,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,59,0,0
+1698851845155,285,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851840423,1046,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,333,3971,195
+1698851845095,354,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851845095,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851845151,298,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,81,0,0
+1698851840438,1040,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140162,2400,10,10,null,328,3971,202
+1698851845204,385,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,60,0,0
+1698851845204,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851845265,324,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851840490,1127,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140162,2400,10,10,null,360,3972,213
+1698851845108,522,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851845108,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851845169,461,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,77,0,0
+1698851840457,1200,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140148,2400,10,10,null,331,3973,205
+1698851845221,643,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,259,0,197
+1698851845221,259,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,259,0,197
+1698851845480,384,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,77,0,0
+1698851845327,562,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,236,0,173
+1698851845327,236,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,236,0,173
+1698851845563,326,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851845442,497,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,222,0,166
+1698851845442,223,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,222,0,166
+1698851845665,274,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851845322,619,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,240,0,171
+1698851845322,240,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,240,0,171
+1698851845563,378,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851845450,571,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,230,0,169
+1698851845450,230,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,230,0,169
+1698851845680,341,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851845742,347,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851845742,56,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851845798,291,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851841193,924,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,294,3972,178
+1698851845631,569,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,226,0,166
+1698851845631,226,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,226,0,166
+1698851845858,342,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,89,0,0
+1698851845590,670,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,254,0,182
+1698851845590,254,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,254,0,182
+1698851845844,416,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,87,0,0
+1698851846091,604,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,233,0,173
+1698851846091,234,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,233,0,173
+1698851846325,370,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851849140,390,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851849140,69,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,69,0,0
+1698851849209,321,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851844514,1044,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,334,3973,196
+1698851849226,398,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851849226,65,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,65,0,0
+1698851849291,333,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851844586,1066,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140155,2400,10,10,null,335,3972,198
+1698851849533,678,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,236,0,174
+1698851849533,236,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,236,0,174
+1698851849769,442,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,121,0,0
+1698851849860,374,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,88,0,0
+1698851849860,88,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,88,0,0
+1698851849948,286,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851845326,936,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140162,2400,10,10,null,324,3972,173
+1698851849626,615,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,271,0,179
+1698851849626,271,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,271,0,179
+1698851849897,344,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851849909,334,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,53,0,0
+1698851849909,53,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,53,0,0
+1698851849962,281,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851845441,831,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140155,2400,10,10,null,275,3971,166
+1698851849911,342,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,56,0,0
+1698851849911,57,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,56,0,0
+1698851849968,285,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851845321,961,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140148,2400,10,10,null,296,3971,171
+1698851849835,421,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,117,0,0
+1698851849835,117,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,117,0,0
+1698851849952,304,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851845219,1064,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140162,2400,10,10,null,376,3974,197
+1698851849992,349,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,56,0,0
+1698851849992,56,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,56,0,0
+1698851850048,293,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851845449,920,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,286,3972,169
+1698851850172,339,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,62,0,0
+1698851850172,62,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,62,0,0
+1698851850234,277,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851845630,908,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140148,2400,10,10,null,288,3974,166
+1698851850234,363,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851850234,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851850292,305,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851845589,1033,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,312,3975,182
+1698851850235,584,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,240,0,178
+1698851850235,240,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,240,0,178
+1698851850475,344,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851850243,578,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,240,0,179
+1698851850243,240,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,240,0,179
+1698851850483,338,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851850257,570,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,253,0,188
+1698851850257,253,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,253,0,188
+1698851850510,317,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,81,0,0
+1698851850254,668,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,258,0,189
+1698851850254,258,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,258,0,189
+1698851850512,410,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851850342,593,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,245,0,175
+1698851850342,245,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,245,0,175
+1698851850587,348,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851850666,333,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,54,0,0
+1698851850666,54,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,54,0,0
+1698851850720,279,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851846089,937,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,287,3973,173
+1698851850598,474,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,204,0,151
+1698851850598,204,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,204,0,151
+1698851850803,269,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,62,0,0
+1698851850512,574,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,261,0,188
+1698851850512,261,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,261,0,188
+1698851850774,312,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851851000,772,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,272,0,200
+1698851851000,272,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,272,0,200
+1698851851272,500,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,77,0,0
+1698851854184,339,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851854184,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851854242,281,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851849531,1017,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,294,3976,174
+1698851854211,339,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851854211,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851854267,283,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851849625,954,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140155,2400,10,10,null,326,3971,179
+1698851854525,594,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,222,0,163
+1698851854525,222,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,222,0,163
+1698851854748,371,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851854792,354,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851854792,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851854856,290,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851850243,932,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140155,2400,10,10,null,303,3972,179
+1698851854796,382,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,75,0,0
+1698851854796,75,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,75,0,0
+1698851854871,307,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,73,0,0
+1698851850257,952,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140148,2400,10,10,null,328,3969,188
+1698851854788,404,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851854788,67,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,67,0,0
+1698851854856,336,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851850234,988,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140155,2400,10,10,null,307,3971,178
+1698851854552,651,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,234,0,172
+1698851854552,235,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,234,0,172
+1698851854787,416,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,84,0,0
+1698851854906,380,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851854906,70,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,69,0,0
+1698851854976,310,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851850341,973,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140148,2400,10,10,null,314,3973,175
+1698851854892,432,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851854892,64,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,64,0,0
+1698851854956,368,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,80,0,0
+1698851850253,1100,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140155,2400,10,10,null,322,3971,189
+1698851855042,320,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851855042,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851855097,265,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851850597,794,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,259,3971,151
+1698851855057,372,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851855057,64,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,64,0,0
+1698851855121,308,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851850512,946,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140148,2400,10,10,null,325,3972,188
+1698851855148,545,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,223,0,162
+1698851855148,223,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,223,0,162
+1698851855372,321,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851855194,626,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,248,0,182
+1698851855194,248,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,248,0,182
+1698851855442,378,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851855180,685,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,276,0,207
+1698851855180,276,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,276,0,207
+1698851855456,409,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851855288,668,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,223,0,164
+1698851855288,224,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,223,0,164
+1698851855512,444,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851855325,779,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,288,0,214
+1698851855325,288,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,288,0,214
+1698851855613,491,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,82,0,0
+1698851855363,762,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,243,0,178
+1698851855363,243,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,243,0,178
+1698851855607,518,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,76,0,0
+1698851855430,753,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,251,0,186
+1698851855430,251,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,251,0,186
+1698851855682,501,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851855743,516,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,65,0,0
+1698851855743,65,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,65,0,0
+1698851855808,451,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,100,0,0
+1698851850999,1288,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,10,10,null,337,3972,200
+1698851856260,524,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,228,0,167
+1698851856260,228,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,228,0,167
+1698851856489,295,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,67,0,0
+1698851859091,462,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,59,0,0
+1698851859091,59,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,59,0,0
+1698851859150,403,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,70,0,0
+1698851854524,1056,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140148,2400,10,10,null,281,3974,163
+1698851859173,618,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851859173,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851859232,559,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,72,0,0
+1698851854551,1269,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140155,2400,10,10,null,292,3971,172
+1698851859664,331,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-7,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851859664,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-7,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851859723,272,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-7,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851855147,876,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,140148,2400,10,10,null,281,3972,162
+1698851859555,502,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70191,1287,10,10,https://www.talan-academy.com/#login,224,0,166
+1698851859555,224,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,224,0,166
+1698851859779,278,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69338,597,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851859791,365,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-2,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,58,0,0
+1698851859791,58,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-2,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,58,0,0
+1698851859849,307,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-2,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,71,0,0
+1698851855193,991,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,140155,2400,10,10,null,306,3972,182
+1698851859836,390,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-5,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,64,0,0
+1698851859836,64,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-5,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,64,0,0
+1698851859900,326,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-5,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851855179,1075,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,140148,2400,10,10,null,340,3972,207
+1698851859926,329,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-9,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,55,0,0
+1698851859926,55,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-9,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,55,0,0
+1698851859981,274,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-9,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851855287,997,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,140155,2400,10,10,null,278,3971,164
+1698851859793,647,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-3,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,265,0,193
+1698851859793,265,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-3,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,265,0,193
+1698851860058,382,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-3,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,78,0,0
+1698851860096,349,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-1,text,true,,69964,1113,10,10,https://www.talan-academy.com/#login,61,0,0
+1698851860096,61,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-1,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,61,0,0
+1698851860158,287,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-1,text,true,,69202,548,10,10,https://www.talan-academy.com/#login,74,0,0
+1698851855362,1111,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,140148,2400,10,10,null,304,3972,178
+1698851860075,412,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-6,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,66,0,0
+1698851860075,66,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-6,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,66,0,0
+1698851860142,345,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-6,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,79,0,0
+1698851855324,1191,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,140155,2400,10,10,null,354,3973,214
+1698851860153,359,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-10,text,true,,69971,1113,10,10,https://www.talan-academy.com/#login,63,0,0
+1698851860153,63,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-10,text,true,,762,565,10,10,https://www.talan-academy.com/candidate/profile,63,0,0
+1698851860216,296,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-10,text,true,,69209,548,10,10,https://www.talan-academy.com/#login,69,0,0
+1698851855430,1112,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,140155,2400,10,10,null,314,3970,186
+1698851859997,561,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-7,text,true,,70184,1287,10,10,https://www.talan-academy.com/#login,232,0,164
+1698851859997,232,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-7,text,true,,853,690,10,10,https://www.talan-academy.com/connexion,232,0,164
+1698851860229,329,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-7,text,true,,69331,597,10,10,https://www.talan-academy.com/#login,68,0,0
+1698851859995,561,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,70184,1287,10,10,null,232,2,164
+1698851860227,498,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-5,text,true,,70184,1287,9,9,https://www.talan-academy.com/#login,230,0,171
+1698851860227,230,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-5,text,true,,853,690,9,9,https://www.talan-academy.com/connexion,230,0,171
+1698851860457,268,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-5,text,true,,69331,597,9,9,https://www.talan-academy.com/#login,63,0,0
+1698851860227,498,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,70184,1287,9,9,null,230,1,171
+1698851860158,631,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-2,text,true,,70184,1287,8,8,https://www.talan-academy.com/#login,245,0,180
+1698851860158,245,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-2,text,true,,853,690,8,8,https://www.talan-academy.com/connexion,245,0,180
+1698851860403,386,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-2,text,true,,69331,597,8,8,https://www.talan-academy.com/#login,70,0,0
+1698851860157,631,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,70184,1287,8,8,null,245,2,180
+1698851860257,565,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-9,text,true,,70184,1287,7,7,https://www.talan-academy.com/#login,233,0,169
+1698851860257,233,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-9,text,true,,853,690,7,7,https://www.talan-academy.com/connexion,233,0,169
+1698851860491,331,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-9,text,true,,69331,597,7,7,https://www.talan-academy.com/#login,67,0,0
+1698851860256,565,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,70184,1287,7,7,null,233,2,169
+1698851860513,482,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-10,text,true,,70184,1287,6,6,https://www.talan-academy.com/#login,213,0,154
+1698851860513,213,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-10,text,true,,853,690,6,6,https://www.talan-academy.com/connexion,213,0,154
+1698851860726,269,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-10,text,true,,69331,597,6,6,https://www.talan-academy.com/#login,65,0,0
+1698851860512,482,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,70184,1287,6,6,null,213,1,154
+1698851860447,579,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-1,text,true,,70184,1287,5,5,https://www.talan-academy.com/#login,236,0,174
+1698851860447,236,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-1,text,true,,853,690,5,5,https://www.talan-academy.com/connexion,236,0,174
+1698851860684,342,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-1,text,true,,69331,597,5,5,https://www.talan-academy.com/#login,66,0,0
+1698851860446,579,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,70184,1287,5,5,null,236,1,174
+1698851860755,316,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-8,text,true,,69964,1113,4,4,https://www.talan-academy.com/#login,52,0,0
+1698851860755,52,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-8,text,true,,762,565,4,4,https://www.talan-academy.com/candidate/profile,52,0,0
+1698851860807,264,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-8,text,true,,69202,548,4,4,https://www.talan-academy.com/#login,63,0,0
+1698851856259,840,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,140148,2400,4,4,null,280,3973,167
+1698851860489,666,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-6,text,true,,70184,1287,4,4,https://www.talan-academy.com/#login,254,0,187
+1698851860489,254,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-6,text,true,,853,690,4,4,https://www.talan-academy.com/connexion,254,0,187
+1698851860743,412,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-6,text,true,,69331,597,4,4,https://www.talan-academy.com/#login,76,0,0
+1698851860488,666,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,70184,1287,4,4,null,254,1,187
+1698851861073,519,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-8,text,true,,70184,1287,3,3,https://www.talan-academy.com/#login,215,0,156
+1698851861073,215,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-8,text,true,,853,690,3,3,https://www.talan-academy.com/connexion,215,0,156
+1698851861289,303,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-8,text,true,,69331,597,3,3,https://www.talan-academy.com/#login,63,0,0
+1698851861072,519,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,70184,1287,3,3,null,215,2,156
+1698851864027,364,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-4,text,true,,69964,1113,2,2,https://www.talan-academy.com/#login,60,0,0
+1698851864027,60,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-4,text,true,,762,565,2,2,https://www.talan-academy.com/candidate/profile,60,0,0
+1698851864087,304,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-4,text,true,,69202,548,2,2,https://www.talan-academy.com/#login,68,0,0
+1698851859554,866,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,140155,2400,2,2,null,284,3972,166
+1698851864411,387,https://www.talan-academy.com/candidate/profile,200,OK,Thread Group 1-3,text,true,,69964,1113,2,2,https://www.talan-academy.com/#login,65,0,0
+1698851864411,65,https://www.talan-academy.com/candidate/profile-0,302,Found,Thread Group 1-3,text,true,,762,565,2,2,https://www.talan-academy.com/candidate/profile,65,0,0
+1698851864477,321,https://www.talan-academy.com/candidate/profile-1,200,OK,Thread Group 1-3,text,true,,69202,548,2,2,https://www.talan-academy.com/#login,75,0,0
+1698851859791,1034,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,140148,2400,2,2,null,330,3973,193
+1698851864393,574,https://www.talan-academy.com/connexion,200,OK,Thread Group 1-4,text,true,,70184,1287,1,1,https://www.talan-academy.com/#login,238,0,177
+1698851864393,238,https://www.talan-academy.com/connexion-0,302,Found,Thread Group 1-4,text,true,,853,690,1,1,https://www.talan-academy.com/connexion,238,0,177
+1698851864631,336,https://www.talan-academy.com/connexion-1,200,OK,Thread Group 1-4,text,true,,69331,597,1,1,https://www.talan-academy.com/#login,67,0,0
