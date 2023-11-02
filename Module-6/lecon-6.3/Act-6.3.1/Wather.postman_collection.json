@@ -1,0 +1,330 @@
+{
+	"info": {
+		"_postman_id": "fb207111-3961-49e9-9d86-1dd9478ff9a7",
+		"name": "Wather",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30904270"
+	},
+	"item": [
+		{
+			"name": "city name",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"response must be valid and have a body\", function () {\r",
+							"     pm.response.to.be.ok;\r",
+							"     pm.response.to.be.withBody;\r",
+							"     pm.response.to.be.json;\r",
+							"});\r",
+							"pm.test(\"Body matches string\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"id\");\r",
+							"});\r",
+							"pm.test(\"Body matches string\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"London\");\r",
+							"});\r",
+							"\r",
+							"\r",
+							"\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.openweathermap.org/data/2.5/weather?q=London&appid=5920b71667cc5ffa1651bd4e5273b7f6",
+					"protocol": "https",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "London"
+						},
+						{
+							"key": "appid",
+							"value": "5920b71667cc5ffa1651bd4e5273b7f6"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "geographic coordinates",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"response must be valid and have a body\", function () {\r",
+							"     pm.response.to.be.ok;\r",
+							"     pm.response.to.be.withBody;\r",
+							"     pm.response.to.be.json;\r",
+							"});\r",
+							"pm.test(\"Body matches string\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"id\");\r",
+							"});\r",
+							"pm.test(\"Body matches string\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"country\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.openweathermap.org/data/2.5/weather?q=London&appid=",
+					"protocol": "https",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "London"
+						},
+						{
+							"key": "appid",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "prévision + 5 jours",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"response must be valid and have a body\", function () {\r",
+							"     pm.response.to.be.ok;\r",
+							"     pm.response.to.be.withBody;\r",
+							"     pm.response.to.be.json;\r",
+							"});\r",
+							"pm.test(\"Body matches string\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"id\");\r",
+							"});\r",
+							"pm.test(\"Body matches string\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"country\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.openweathermap.org/data/2.5/forecast?lat=44.34&lon=10.99&appid=5920b71667cc5ffa1651bd4e5273b7f6",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"forecast"
+					],
+					"query": [
+						{
+							"key": "lat",
+							"value": "44.34"
+						},
+						{
+							"key": "lon",
+							"value": "10.99"
+						},
+						{
+							"key": "appid",
+							"value": "5920b71667cc5ffa1651bd4e5273b7f6"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "station",
+			"protocolProfileBehavior": {
+				"followOriginalHttpMethod": true,
+				"followAuthorizationHeader": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"external_id\": \"SF_TEST001\",\r\n  \"name\": \"San Francisco Test Station\",\r\n  \"latitude\": 37.76,\r\n  \"longitude\": -122.43,\r\n  \"altitude\": 150\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api.openweathermap.org/data/3.0/stations?appid=5920b71667cc5ffa1651bd4e5273b7f6",
+					"protocol": "http",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"3.0",
+						"stations"
+					],
+					"query": [
+						{
+							"key": "appid",
+							"value": "5920b71667cc5ffa1651bd4e5273b7f6"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "measurements",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n[\r\n  {\r\n    \"station_id\": \"65439e378885c200018ae611\",\r\n    \"dt\": 1479817340,\r\n    \"temperature\": 18.7,\r\n    \"wind_speed\": 1.2,\r\n    \"wind_gust\": 3.4,\r\n    \"pressure\": 1021,\r\n    \"humidity\": 87,\r\n    \"rain_1h\": 2,\r\n    \"clouds\": [\r\n      {\r\n          \"condition\": \"NSC\"\r\n      }\r\n    ]\r\n  }\r\n]\r\n \r\n   ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api.openweathermap.org/data/3.0/measurements?appid=5920b71667cc5ffa1651bd4e5273b7f6",
+					"protocol": "http",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"3.0",
+						"measurements"
+					],
+					"query": [
+						{
+							"key": "appid",
+							"value": "5920b71667cc5ffa1651bd4e5273b7f6"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "station",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://api.openweathermap.org/data/3.0/stations/65439e378885c200018ae611",
+					"protocol": "http",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"3.0",
+						"stations",
+						"65439e378885c200018ae611"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "value",
+				"value": "{{value}}",
+				"type": "string"
+			},
+			{
+				"key": "key",
+				"value": "{{key}}",
+				"type": "string"
+			},
+			{
+				"key": "in",
+				"value": "query",
+				"type": "string"
+			}
+		]
+	},
+	"variable": [
+		{
+			"key": "value",
+			"value": "",
+			"type": "default"
+		},
+		{
+			"key": "key",
+			"value": "",
+			"type": "default"
+		},
+		{
+			"key": "in",
+			"value": "",
+			"type": "default"
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "f08ca709-3619-4549-b4f4-104cdccbcc3b",
+		"name": "Faker api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30904270"
+	},
+	"item": [
+		{
+			"name": "books",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://fakerestapi.azurewebsites.net/api/v1/Books",
+					"protocol": "https",
+					"host": [
+						"fakerestapi",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"v1",
+						"Books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "books",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"title\": \"string\",\r\n  \"description\": \"string\",\r\n  \"pageCount\": 0,\r\n  \"excerpt\": \"string\",\r\n  \"publishDate\": \"2023-11-02T16:27:10.052Z\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fakerestapi.azurewebsites.net/api/v1/Books",
+					"protocol": "https",
+					"host": [
+						"fakerestapi",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"v1",
+						"Books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://fakerestapi.azurewebsites.net/api/v1/Books",
+					"protocol": "https",
+					"host": [
+						"fakerestapi",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"v1",
+						"Books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "books",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"title\": \"string\",\r\n  \"description\": \"string\",\r\n  \"pageCount\": 0,\r\n  \"excerpt\": \"string\",\r\n  \"publishDate\": \"2023-11-02T16:31:31.751Z\"\r\n}"
+				}
+			},
+			"response": []
+		}
+	]
+}
