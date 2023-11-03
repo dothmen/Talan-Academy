@@ -1,0 +1,402 @@
+{
+	"info": {
+		"_postman_id": "5df86a8a-cd52-4e58-b738-6c6dfac1d937",
+		"name": "GITHUBTESTAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30904270"
+	},
+	"item": [
+		{
+			"name": "REPO",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Check that the owner's name is 'dothmen'\", function () {\r",
+							"    pm.expect(pm.response.json().owner.login).to.eql(\"dothmen\");\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "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",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/vnd.github+json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer <YOUR-TOKEN>"
+					},
+					{
+						"key": "X-GitHub-Api-Version",
+						"value": "2022-11-28"
+					}
+				],
+				"url": {
+					"raw": "https://api.github.com/repos/dothmen/dothmen",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"repos",
+						"dothmen",
+						"dothmen"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CREATREPO",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"full_name\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"dothmen/POSTMAN\");\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "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",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/vnd.github+json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer <YOUR-TOKEN>"
+					},
+					{
+						"key": "X-GitHub-Api-Version",
+						"value": "2022-11-28"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"name\":\"POSTMAN\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.github.com/user/repos",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"user",
+						"repos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(204);\r",
+							"});\r",
+							"pm.test(\"Chek the response content must be empty .\", function () {\r",
+							"    pm.expect(pm.response.text()).to.be.empty;\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "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",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/vnd.github+json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer <YOUR-TOKEN>"
+					},
+					{
+						"key": "X-GitHub-Api-Version",
+						"value": "2022-11-28"
+					}
+				],
+				"url": {
+					"raw": "https://api.github.com/repos/dothmen/POSTMAN",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"repos",
+						"dothmen",
+						"POSTMAN"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "collaborators",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"pm.test(\"Check that the invitee's name is 'frhbrb'\", function () {\r",
+							"    pm.expect(pm.response.json().invitee.login).to.eql(\"frhbrb\");\r",
+							"});\r",
+							"pm.test(\"Check that the inviter's name is 'dothmen'\", function () {\r",
+							"    pm.expect(pm.response.json().inviter.login).to.eql(\"dothmen\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "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",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/vnd.github+json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer <YOUR-TOKEN>"
+					},
+					{
+						"key": "X-GitHub-Api-Version",
+						"value": "2022-11-28"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.github.com/repos/dothmen/dothmen/collaborators/frhbrb",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"repos",
+						"dothmen",
+						"dothmen",
+						"collaborators",
+						"frhbrb"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "user",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "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",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/vnd.github+json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer <YOUR-TOKEN>"
+					},
+					{
+						"key": "X-GitHub-Api-Version",
+						"value": "2022-11-28"
+					}
+				],
+				"url": {
+					"raw": "https://api.github.com/user",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "commit comment",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "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",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/vnd.github+json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer <YOUR-TOKEN>"
+					},
+					{
+						"key": "X-GitHub-Api-Version",
+						"value": "2022-11-28"
+					}
+				],
+				"url": {
+					"raw": "https://api.github.com/repos/dothmen/Talan-Academy/comments/mess_id",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"repos",
+						"dothmen",
+						"Talan-Academy",
+						"comments",
+						"mess_id"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"variable": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "default"
+		}
+	]
+}
