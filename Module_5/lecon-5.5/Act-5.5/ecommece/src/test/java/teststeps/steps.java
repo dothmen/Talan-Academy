@@ -11,6 +11,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import testpages.addcommentpage;
 import testpages.addpage;
 import testpages.logintestpage;
 import testpages.researchpage;
@@ -26,6 +27,7 @@ public class steps {
 	 updatepage update;
 	  researchpage research;  
 	  addpage add;
+	  addcommentpage addcomment;
 	     @Before
 	      public void  browsersetup() {
 	    	System.setProperty("webdriver.chrome.driver", "src\\test\\resources\\divers\\chromedriver.exe") ;
@@ -107,10 +109,7 @@ public class steps {
 	    
 	}
 
-	@Then("update new first name is not successful")
-	public void update_new_first_name_is_not_successful() {
-	    update.checkerrortext();
-	}
+	
 	@When("user wants to search for the cheapest software")
 	public void user_wants_to_search_for_the_cheapest_software() {
 	    
@@ -137,11 +136,17 @@ public class steps {
 	public void user_chooses_the_software_that_suits_them() {
 	    
 	}
-	@When("when the user clicks on the product he wants to buy")
-	public void when_the_user_clicks_on_the_product_he_wants_to_buy() {
+
+    @When("the user clicks on technopro")
+      public void the_user_clicks_on_technopro() {
+    	add= new addpage (driver);
+       add.clickontechnopro();
+    }
+    @When("the user clicks on the product he wants to buy")
+    public void the_user_clicks_on_the_product_he_wants_to_buy() {
 		add = new addpage (driver);
-		driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
-		add.clickonproduct();
+	
+		add.clickonproduct();;
 	}
 
 	@When("click on add to Cart")
@@ -152,9 +157,31 @@ public class steps {
 
 	@Then("Product added to cart successfully")
 	public void product_added_to_cart_successfully() {
+		driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
 		add = new addpage(driver);
 		add.cheakaddtext();
 	}
+	@When("user click on add a comment")
+	public void user_click_on_add_a_comment() {
+	    addcomment.clickonaddcommentbutton();
+	}
+
+	@When("enter title and comment")
+	public void enter_title_and_comment() {
+	   addcomment.entercomment();
+	   addcomment.entertitle();
+	}
+
+	@When("click on submit button")
+	public void click_on_submit_button() {
+	   addcomment.clickonsubmitbutton();
+	}
+
+	@Then("submit comment is successful")
+	public void submit_comment_is_successful() {
+	   addcomment.checktext();
+	}
+
 }
 
 
